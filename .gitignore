@@ -1,2 +1,6 @@
 *.ko
 *.o
+assn01/Module.symvers
+assn01/cmpe283-1.mod.c
+assn01/cmpe283-1.o.ur-safe
+assn01/modules.order
